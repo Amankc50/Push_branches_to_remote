@@ -1,4 +1,6 @@
 This is practice for pushing git branches in remote repository
 
 Create new commit 
+
 create new branch name = modify1
+modify new branch 
